@@ -1,5 +1,6 @@
 import sys
 import serial
+from datetime import datetime
 
 
 print ("SAGEMCOM S211")
@@ -60,6 +61,8 @@ def buffer_data():
 def read_data():
 
     usage=dict()
+
+    usage['timestamp']=datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     #Store the first iteration
     for i in range(datalength):
         #Read 1 line of the serial port
