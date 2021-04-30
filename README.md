@@ -6,12 +6,12 @@ I'll read, collect and interpret the data of my digital meter using a Raspberry 
 
 - Install RPi in closet + SSH 
 - Git setup
-- 
+- Read data
+- Clean data
 
 ## TO DO
 
 - Setup webserver
-- Read Data
-- Handle Data
-- Show Data
-- Create Django website to interprete data
+- Create API
+- Local API requests
+- Show Data through webserver
