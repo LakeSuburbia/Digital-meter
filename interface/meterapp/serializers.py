@@ -15,3 +15,6 @@ class UsageSerializer(serializers.ModelSerializer):
             nighttime=validated_data['nighttime'],
         )
         return usage
+
+#class DataSerializer(serializers.Serializer):
+#    data = UsageSerializer(many=True)
