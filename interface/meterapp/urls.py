@@ -13,4 +13,5 @@ urlpatterns = [
     path('', views.index, name='index'),
     path("restapi/", include(router.urls)),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+    #path('starter/', views.starter, name='starter'),
 ]
