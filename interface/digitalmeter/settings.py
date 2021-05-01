@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7fj*m3xfr97!lh$bjjk$hropmk=@f8@w_w99msn_gn+@yxtth4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["192.168.0.161","127.0.0.1","78.21.48.142","78.21.48.142:8080"]
+ALLOWED_HOSTS = ["127.0.0.1","192.168.0.185"]
 
 
 # Application definition
@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
+    'meterapp'
 ]
 
 MIDDLEWARE = [
@@ -123,3 +125,11 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+REST_FRAMEWORK = {
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
+}
