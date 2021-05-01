@@ -96,7 +96,6 @@ def store_data():
     for i in range(frequency_API):
         newdata = read_data()
         print(newdata)
-        data.append(newdata)
         postreq = requests.post(APIaddress, data = newdata, auth=('ADMIN', 'ADMIN'))
         
 
