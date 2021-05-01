@@ -19,7 +19,7 @@ APIaddress = "127.0.0.1/API"
 # Length of Sagemcom data
 datalength=25
 # Frequency in seconds
-frequency_DATA=10
+frequency_DATA=60
 # Frequency in minutes
 frequency_API=60
 
