@@ -96,7 +96,11 @@ def store_data():
     for i in range(frequency_API):
         newdata = read_data()
         print(newdata)
-        postreq = requests.post(APIaddress, data = newdata, auth=('ADMIN', 'ADMIN'))
+        try:
+            postreq = requests.post(APIaddress, data = newdata, auth=('ADMIN', 'ADMIN'))
+            print (postreq)
+        except:
+            print("Couldn't reach the server.")
         
 
 while(1):
