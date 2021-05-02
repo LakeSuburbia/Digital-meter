@@ -25,7 +25,7 @@ def chart(request):
     labels = []
     data = get_usage_data(request)
     for i in range(24):
-        labels.append(str(i)+"   - ")
+        labels.append(str(i)+"\n-\n"+str(i+1))
      
     return JsonResponse(data={
         'labels': labels,
