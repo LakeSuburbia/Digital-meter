@@ -17,7 +17,7 @@ print ("Control-C to quit")
 
 
 # The address where we will collect our data through an hourly API call
-APIaddress = "http://127.0.0.1:8000/restapi/usage/"
+APIaddress = "http://165.227.215.102:8000/restapi/usage/"
 # Length of Sagemcom data
 datalength=25
 # Frequency in seconds

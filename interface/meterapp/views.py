@@ -19,8 +19,9 @@ class UsageViewSet(viewsets.ModelViewSet):
 
  
 def chart(request):
+
     labels = []
-    data = get_hourly_usage(request)
+    data = get_usage_data(request)
     for i in range(24):
         labels.append(str(i)+"   - ")
      
@@ -30,21 +31,30 @@ def chart(request):
     })
     
 #Get the hourly usage today
-def get_hourly_usage(request):
+def get_usage_data(request):
     day = date.today()
     allEntriesToday = Usage.objects.filter(timestamp__date = day).order_by('-timestamp')
     hourlyUsage = [0] * 24
+    totalUsage = 0
     for i in range(24):
         allEntriesHour = allEntriesToday.filter(timestamp__hour = i).order_by('-timestamp')
         if allEntriesHour.count() >= 2:
-            hourlyUsage[i] = allEntriesHour.first().nighttime - allEntriesHour.last().nighttime 
+            hourlyUsage[i] = allEntriesHour.first().nighttime - allEntriesHour.last().nighttime + allEntriesHour.first().daytime - allEntriesHour.last().daytime
         
 
     return hourlyUsage
 
 
 def index(request):
-    return render(request, 'index.html')
+
+    totalUsage = 0
+    for data in get_usage_data(request):
+        totalUsage += data 
+
+    return render(request, 'index.html', {
+        'totalUsage': round(totalUsage,5),
+        'averageUsage': round(totalUsage/24,5)
+    })
 
         
     
