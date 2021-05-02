@@ -39,7 +39,7 @@ def get_usage_data(request):
     for i in range(24):
         allEntriesHour = allEntriesToday.filter(timestamp__hour = i).order_by('-timestamp')
         if allEntriesHour.count() >= 2:
-            hourlyUsage[i] = allEntriesHour.first().nighttime - allEntriesHour.last().nighttime + allEntriesHour.first().daytime - allEntriesHour.last().daytime
+            hourlyUsage[i] = round(allEntriesHour.first().nighttime - allEntriesHour.last().nighttime + allEntriesHour.first().daytime - allEntriesHour.last().daytime, 5)
         
 
     return hourlyUsage
