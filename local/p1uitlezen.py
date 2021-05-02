@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sys
 import serial
 from datetime import datetime
