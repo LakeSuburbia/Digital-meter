@@ -10,8 +10,12 @@ I'll read, collect and interpret the data of my digital meter using a Raspberry 
 - Clean data
 - Create API
 - Communicate with API
+- Show data through interface
+- Setup webserver
+- Migrate to webserver
+- Run RPI-script on startup in background
+- Run webserver in background
 
 ## TO DO
 
-- Setup webserver
-- Show Data through webserver
+- Secure API
