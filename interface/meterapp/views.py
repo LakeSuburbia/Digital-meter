@@ -19,7 +19,9 @@ class UsageViewSet(viewsets.ModelViewSet):
 
  
 def chart(request):
-
+    """
+    Function that provides the usage data in JSON format to the chart.js module
+    """
     labels = []
     data = get_usage_data(request)
     for i in range(24):
@@ -32,6 +34,9 @@ def chart(request):
     
 #Get the hourly usage today
 def get_usage_data(request):
+    """
+    Function that gathers all the usage data of today and calculates the hourly usage
+    """
     day = date.today()
     allEntriesToday = Usage.objects.filter(timestamp__date = day).order_by('-timestamp')
     hourlyUsage = [0] * 24
@@ -39,13 +44,24 @@ def get_usage_data(request):
     for i in range(24):
         allEntriesHour = allEntriesToday.filter(timestamp__hour = i).order_by('-timestamp')
         if allEntriesHour.count() >= 2:
-            hourlyUsage[i] = round(allEntriesHour.first().nighttime - allEntriesHour.last().nighttime + allEntriesHour.first().daytime - allEntriesHour.last().daytime, 5)
-        
+
+            # The hourly usage is calculated by subtracting the newest data by the oldest data of this particular hour.
+            # This isn't 100% accurate since we're missing data the last / first minute of every hour
+
+            nighttime = allEntriesHour.first().nighttime - allEntriesHour.last().nighttime
+            daytime = allEntriesHour.first().daytime - allEntriesHour.last().daytime
+
+            # For now, I'll add the nighttime and daytime usage
+            # In the future I'll be able to interpret these seperately
+            hourlyUsage[i] = round(nighttime + daytime, 5)
 
     return hourlyUsage
 
 
 def index(request):
+    """
+    Function that renders the index page and calculates the total and average hourly usage
+    """
 
     totalUsage = 0
     for data in get_usage_data(request):

@@ -92,7 +92,6 @@ def read_data():
 
 
 
-
 def store_data():
     for i in range(frequency_API):
         newdata = read_data()
