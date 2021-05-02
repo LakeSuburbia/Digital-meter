@@ -8,10 +8,10 @@ I'll read, collect and interpret the data of my digital meter using a Raspberry 
 - Git setup
 - Read data
 - Clean data
+- Create API
+- Communicate with API
 
 ## TO DO
 
 - Setup webserver
-- Create API
-- Local API requests
 - Show Data through webserver
