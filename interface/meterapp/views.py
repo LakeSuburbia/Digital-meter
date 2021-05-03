@@ -4,7 +4,7 @@ from rest_framework import viewsets, permissions
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from django.http import JsonResponse
-from datetime import date, timedelta, datetime
+from datetime import date, timedelta, datetime, timezone
 from .models import *
 from .serializers import *
 
@@ -15,7 +15,6 @@ class UsageViewSet(viewsets.ModelViewSet):
     """
     queryset = Usage.objects.all().order_by('-timestamp')
     serializer_class = UsageSerializer
-    #permission_classes = [permissions.IsAuthenticated]
 
  
 def chart(request):
@@ -64,12 +63,17 @@ def index(request):
     """
 
     totalUsage = 0
+
     for data in get_usage_data(request):
         totalUsage += data 
 
+    # Time in hours
+    now = datetime.now()+timedelta(hours=2)
+    time = now.hour + now.minute/60 + now.second/3600
+
     return render(request, 'index.html', {
         'totalUsage': round(totalUsage,5),
-        'averageUsage': round(totalUsage/24,5)
+        'averageUsage': round(totalUsage/time,5)
     })
 
         
