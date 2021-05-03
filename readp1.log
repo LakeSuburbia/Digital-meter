@@ -1,0 +1,2649 @@
+SAGEMCOM S211
+Control-C to quit
+{'timestamp': '2021-05-02T22:17:14', 'daytime': '000736.541', 'nighttime': '000685.615'}
+Couldn't reach the server.
+{'timestamp': '2021-05-02T22:18:17', 'daytime': '000736.541', 'nighttime': '000685.619'}
+Couldn't reach the server.
+{'timestamp': '2021-05-02T22:19:17', 'daytime': '000736.541', 'nighttime': '000685.623'}
+<Response [201]>
+{'timestamp': '2021-05-02T22:20:47', 'daytime': '000736.541', 'nighttime': '000685.627'}
+<Response [201]>
+{'timestamp': '2021-05-02T22:54:44', 'daytime': '000736.541', 'nighttime': '000685.633'}
+<Response [201]>
+{'timestamp': '2021-05-02T22:55:44', 'daytime': '000736.541', 'nighttime': '000685.637'}
+<Response [201]>
+{'timestamp': '2021-05-02T22:56:44', 'daytime': '000736.541', 'nighttime': '000685.641'}
+<Response [201]>
+{'timestamp': '2021-05-02T22:57:44', 'daytime': '000736.541', 'nighttime': '000685.645'}
+<Response [201]>
+{'timestamp': '2021-05-02T22:58:44', 'daytime': '000736.541', 'nighttime': '000685.649'}
+<Response [201]>
+{'timestamp': '2021-05-02T22:59:44', 'daytime': '000736.541', 'nighttime': '000685.652'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:00:44', 'daytime': '000736.541', 'nighttime': '000685.656'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:01:44', 'daytime': '000736.541', 'nighttime': '000685.660'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:02:44', 'daytime': '000736.541', 'nighttime': '000685.664'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:03:44', 'daytime': '000736.541', 'nighttime': '000685.668'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:04:44', 'daytime': '000736.541', 'nighttime': '000685.672'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:05:44', 'daytime': '000736.541', 'nighttime': '000685.676'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:06:44', 'daytime': '000736.541', 'nighttime': '000685.679'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:07:44', 'daytime': '000736.541', 'nighttime': '000685.683'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:08:44', 'daytime': '000736.541', 'nighttime': '000685.688'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:09:44', 'daytime': '000736.541', 'nighttime': '000685.692'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:10:44', 'daytime': '000736.541', 'nighttime': '000685.696'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:11:44', 'daytime': '000736.541', 'nighttime': '000685.699'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:12:44', 'daytime': '000736.541', 'nighttime': '000685.703'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:13:44', 'daytime': '000736.541', 'nighttime': '000685.707'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:14:44', 'daytime': '000736.541', 'nighttime': '000685.711'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:15:44', 'daytime': '000736.541', 'nighttime': '000685.715'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:16:44', 'daytime': '000736.541', 'nighttime': '000685.719'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:17:44', 'daytime': '000736.541', 'nighttime': '000685.723'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:18:44', 'daytime': '000736.541', 'nighttime': '000685.726'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:19:44', 'daytime': '000736.541', 'nighttime': '000685.730'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:20:44', 'daytime': '000736.541', 'nighttime': '000685.734'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:21:44', 'daytime': '000736.541', 'nighttime': '000685.738'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:22:44', 'daytime': '000736.541', 'nighttime': '000685.741'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:23:44', 'daytime': '000736.541', 'nighttime': '000685.745'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:24:44', 'daytime': '000736.541', 'nighttime': '000685.749'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:25:44', 'daytime': '000736.541', 'nighttime': '000685.753'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:26:44', 'daytime': '000736.541', 'nighttime': '000685.757'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:27:44', 'daytime': '000736.541', 'nighttime': '000685.761'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:28:44', 'daytime': '000736.541', 'nighttime': '000685.764'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:29:44', 'daytime': '000736.541', 'nighttime': '000685.768'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:30:44', 'daytime': '000736.541', 'nighttime': '000685.772'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:31:44', 'daytime': '000736.541', 'nighttime': '000685.776'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:32:44', 'daytime': '000736.541', 'nighttime': '000685.779'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:33:44', 'daytime': '000736.541', 'nighttime': '000685.781'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:34:44', 'daytime': '000736.541', 'nighttime': '000685.784'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:35:44', 'daytime': '000736.541', 'nighttime': '000685.788'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:36:44', 'daytime': '000736.541', 'nighttime': '000685.792'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:37:44', 'daytime': '000736.541', 'nighttime': '000685.797'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:38:44', 'daytime': '000736.541', 'nighttime': '000685.801'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:39:44', 'daytime': '000736.541', 'nighttime': '000685.805'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:40:44', 'daytime': '000736.541', 'nighttime': '000685.809'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:41:44', 'daytime': '000736.541', 'nighttime': '000685.812'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:42:44', 'daytime': '000736.541', 'nighttime': '000685.816'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:43:44', 'daytime': '000736.541', 'nighttime': '000685.820'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:44:44', 'daytime': '000736.541', 'nighttime': '000685.824'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:45:44', 'daytime': '000736.541', 'nighttime': '000685.828'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:46:44', 'daytime': '000736.541', 'nighttime': '000685.833'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:47:44', 'daytime': '000736.541', 'nighttime': '000685.837'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:48:44', 'daytime': '000736.541', 'nighttime': '000685.840'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:49:44', 'daytime': '000736.541', 'nighttime': '000685.844'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:50:44', 'daytime': '000736.541', 'nighttime': '000685.848'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:51:44', 'daytime': '000736.541', 'nighttime': '000685.852'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:52:44', 'daytime': '000736.541', 'nighttime': '000685.855'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:53:44', 'daytime': '000736.541', 'nighttime': '000685.858'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:54:44', 'daytime': '000736.541', 'nighttime': '000685.862'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:55:44', 'daytime': '000736.541', 'nighttime': '000685.864'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:56:44', 'daytime': '000736.541', 'nighttime': '000685.867'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:57:44', 'daytime': '000736.541', 'nighttime': '000685.871'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:58:44', 'daytime': '000736.541', 'nighttime': '000685.874'}
+<Response [201]>
+{'timestamp': '2021-05-02T23:59:44', 'daytime': '000736.541', 'nighttime': '000685.876'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:00:44', 'daytime': '000736.541', 'nighttime': '000685.878'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:01:44', 'daytime': '000736.541', 'nighttime': '000685.879'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:02:44', 'daytime': '000736.541', 'nighttime': '000685.881'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:03:44', 'daytime': '000736.541', 'nighttime': '000685.883'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:04:44', 'daytime': '000736.541', 'nighttime': '000685.885'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:05:44', 'daytime': '000736.541', 'nighttime': '000685.887'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:06:44', 'daytime': '000736.541', 'nighttime': '000685.888'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:07:44', 'daytime': '000736.541', 'nighttime': '000685.890'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:08:44', 'daytime': '000736.541', 'nighttime': '000685.892'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:09:44', 'daytime': '000736.541', 'nighttime': '000685.893'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:10:44', 'daytime': '000736.541', 'nighttime': '000685.895'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:11:44', 'daytime': '000736.541', 'nighttime': '000685.896'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:12:44', 'daytime': '000736.541', 'nighttime': '000685.898'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:13:44', 'daytime': '000736.541', 'nighttime': '000685.899'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:14:44', 'daytime': '000736.541', 'nighttime': '000685.901'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:15:44', 'daytime': '000736.541', 'nighttime': '000685.902'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:16:44', 'daytime': '000736.541', 'nighttime': '000685.904'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:17:44', 'daytime': '000736.541', 'nighttime': '000685.905'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:18:44', 'daytime': '000736.541', 'nighttime': '000685.907'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:19:44', 'daytime': '000736.541', 'nighttime': '000685.909'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:20:44', 'daytime': '000736.541', 'nighttime': '000685.910'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:21:44', 'daytime': '000736.541', 'nighttime': '000685.912'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:22:44', 'daytime': '000736.541', 'nighttime': '000685.913'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:23:44', 'daytime': '000736.541', 'nighttime': '000685.915'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:24:44', 'daytime': '000736.541', 'nighttime': '000685.916'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:25:44', 'daytime': '000736.541', 'nighttime': '000685.918'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:26:44', 'daytime': '000736.541', 'nighttime': '000685.919'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:27:44', 'daytime': '000736.541', 'nighttime': '000685.921'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:28:44', 'daytime': '000736.541', 'nighttime': '000685.923'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:29:44', 'daytime': '000736.541', 'nighttime': '000685.924'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:30:44', 'daytime': '000736.541', 'nighttime': '000685.926'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:31:44', 'daytime': '000736.541', 'nighttime': '000685.927'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:32:44', 'daytime': '000736.541', 'nighttime': '000685.929'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:33:44', 'daytime': '000736.541', 'nighttime': '000685.930'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:34:44', 'daytime': '000736.541', 'nighttime': '000685.932'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:35:44', 'daytime': '000736.541', 'nighttime': '000685.933'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:36:44', 'daytime': '000736.541', 'nighttime': '000685.935'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:37:44', 'daytime': '000736.541', 'nighttime': '000685.936'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:38:44', 'daytime': '000736.541', 'nighttime': '000685.938'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:39:44', 'daytime': '000736.541', 'nighttime': '000685.939'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:40:44', 'daytime': '000736.541', 'nighttime': '000685.941'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:41:44', 'daytime': '000736.541', 'nighttime': '000685.943'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:42:44', 'daytime': '000736.541', 'nighttime': '000685.944'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:43:44', 'daytime': '000736.541', 'nighttime': '000685.946'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:44:44', 'daytime': '000736.541', 'nighttime': '000685.947'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:45:44', 'daytime': '000736.541', 'nighttime': '000685.949'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:46:44', 'daytime': '000736.541', 'nighttime': '000685.950'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:47:44', 'daytime': '000736.541', 'nighttime': '000685.952'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:48:44', 'daytime': '000736.541', 'nighttime': '000685.953'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:49:44', 'daytime': '000736.541', 'nighttime': '000685.955'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:50:44', 'daytime': '000736.541', 'nighttime': '000685.956'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:51:44', 'daytime': '000736.541', 'nighttime': '000685.958'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:52:44', 'daytime': '000736.541', 'nighttime': '000685.959'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:53:44', 'daytime': '000736.541', 'nighttime': '000685.961'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:54:44', 'daytime': '000736.541', 'nighttime': '000685.963'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:55:44', 'daytime': '000736.541', 'nighttime': '000685.964'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:56:44', 'daytime': '000736.541', 'nighttime': '000685.966'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:57:44', 'daytime': '000736.541', 'nighttime': '000685.967'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:58:44', 'daytime': '000736.541', 'nighttime': '000685.969'}
+<Response [201]>
+{'timestamp': '2021-05-03T00:59:44', 'daytime': '000736.541', 'nighttime': '000685.970'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:00:44', 'daytime': '000736.541', 'nighttime': '000685.972'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:01:44', 'daytime': '000736.541', 'nighttime': '000685.973'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:02:44', 'daytime': '000736.541', 'nighttime': '000685.975'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:03:44', 'daytime': '000736.541', 'nighttime': '000685.976'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:04:44', 'daytime': '000736.541', 'nighttime': '000685.978'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:05:44', 'daytime': '000736.541', 'nighttime': '000685.979'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:06:44', 'daytime': '000736.541', 'nighttime': '000685.981'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:07:44', 'daytime': '000736.541', 'nighttime': '000685.983'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:08:44', 'daytime': '000736.541', 'nighttime': '000685.986'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:09:44', 'daytime': '000736.541', 'nighttime': '000685.989'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:10:44', 'daytime': '000736.541', 'nighttime': '000685.992'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:11:44', 'daytime': '000736.541', 'nighttime': '000685.995'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:12:44', 'daytime': '000736.541', 'nighttime': '000685.997'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:13:44', 'daytime': '000736.541', 'nighttime': '000686.000'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:14:44', 'daytime': '000736.541', 'nighttime': '000686.003'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:15:44', 'daytime': '000736.541', 'nighttime': '000686.005'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:16:44', 'daytime': '000736.541', 'nighttime': '000686.008'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:17:44', 'daytime': '000736.541', 'nighttime': '000686.011'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:18:44', 'daytime': '000736.541', 'nighttime': '000686.014'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:19:44', 'daytime': '000736.541', 'nighttime': '000686.016'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:20:44', 'daytime': '000736.541', 'nighttime': '000686.019'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:21:44', 'daytime': '000736.541', 'nighttime': '000686.022'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:22:44', 'daytime': '000736.541', 'nighttime': '000686.024'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:23:44', 'daytime': '000736.541', 'nighttime': '000686.027'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:24:44', 'daytime': '000736.541', 'nighttime': '000686.030'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:25:44', 'daytime': '000736.541', 'nighttime': '000686.032'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:26:44', 'daytime': '000736.541', 'nighttime': '000686.035'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:27:44', 'daytime': '000736.541', 'nighttime': '000686.038'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:28:44', 'daytime': '000736.541', 'nighttime': '000686.040'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:29:44', 'daytime': '000736.541', 'nighttime': '000686.043'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:30:44', 'daytime': '000736.541', 'nighttime': '000686.046'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:31:44', 'daytime': '000736.541', 'nighttime': '000686.048'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:32:44', 'daytime': '000736.541', 'nighttime': '000686.050'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:33:44', 'daytime': '000736.541', 'nighttime': '000686.052'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:34:44', 'daytime': '000736.541', 'nighttime': '000686.053'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:35:44', 'daytime': '000736.541', 'nighttime': '000686.055'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:36:44', 'daytime': '000736.541', 'nighttime': '000686.056'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:37:44', 'daytime': '000736.541', 'nighttime': '000686.058'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:38:44', 'daytime': '000736.541', 'nighttime': '000686.059'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:39:44', 'daytime': '000736.541', 'nighttime': '000686.061'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:40:44', 'daytime': '000736.541', 'nighttime': '000686.062'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:41:44', 'daytime': '000736.541', 'nighttime': '000686.064'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:42:44', 'daytime': '000736.541', 'nighttime': '000686.065'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:43:44', 'daytime': '000736.541', 'nighttime': '000686.067'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:44:44', 'daytime': '000736.541', 'nighttime': '000686.068'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:45:44', 'daytime': '000736.541', 'nighttime': '000686.070'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:46:44', 'daytime': '000736.541', 'nighttime': '000686.071'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:47:44', 'daytime': '000736.541', 'nighttime': '000686.073'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:48:44', 'daytime': '000736.541', 'nighttime': '000686.075'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:49:44', 'daytime': '000736.541', 'nighttime': '000686.076'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:50:44', 'daytime': '000736.541', 'nighttime': '000686.078'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:51:44', 'daytime': '000736.541', 'nighttime': '000686.079'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:52:44', 'daytime': '000736.541', 'nighttime': '000686.081'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:53:44', 'daytime': '000736.541', 'nighttime': '000686.083'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:54:44', 'daytime': '000736.541', 'nighttime': '000686.085'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:55:44', 'daytime': '000736.541', 'nighttime': '000686.086'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:56:44', 'daytime': '000736.541', 'nighttime': '000686.088'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:57:44', 'daytime': '000736.541', 'nighttime': '000686.089'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:58:44', 'daytime': '000736.541', 'nighttime': '000686.091'}
+<Response [201]>
+{'timestamp': '2021-05-03T01:59:44', 'daytime': '000736.541', 'nighttime': '000686.092'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:00:44', 'daytime': '000736.541', 'nighttime': '000686.094'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:01:44', 'daytime': '000736.541', 'nighttime': '000686.095'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:02:44', 'daytime': '000736.541', 'nighttime': '000686.097'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:03:44', 'daytime': '000736.541', 'nighttime': '000686.098'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:04:44', 'daytime': '000736.541', 'nighttime': '000686.100'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:05:44', 'daytime': '000736.541', 'nighttime': '000686.102'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:06:44', 'daytime': '000736.541', 'nighttime': '000686.103'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:07:44', 'daytime': '000736.541', 'nighttime': '000686.105'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:08:44', 'daytime': '000736.541', 'nighttime': '000686.106'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:09:44', 'daytime': '000736.541', 'nighttime': '000686.108'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:10:44', 'daytime': '000736.541', 'nighttime': '000686.109'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:11:44', 'daytime': '000736.541', 'nighttime': '000686.111'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:12:44', 'daytime': '000736.541', 'nighttime': '000686.112'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:13:44', 'daytime': '000736.541', 'nighttime': '000686.114'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:14:44', 'daytime': '000736.541', 'nighttime': '000686.115'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:15:44', 'daytime': '000736.541', 'nighttime': '000686.117'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:16:44', 'daytime': '000736.541', 'nighttime': '000686.118'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:17:44', 'daytime': '000736.541', 'nighttime': '000686.120'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:18:44', 'daytime': '000736.541', 'nighttime': '000686.121'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:19:44', 'daytime': '000736.541', 'nighttime': '000686.123'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:20:44', 'daytime': '000736.541', 'nighttime': '000686.124'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:21:44', 'daytime': '000736.541', 'nighttime': '000686.126'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:22:44', 'daytime': '000736.541', 'nighttime': '000686.128'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:23:44', 'daytime': '000736.541', 'nighttime': '000686.129'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:24:44', 'daytime': '000736.541', 'nighttime': '000686.131'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:25:44', 'daytime': '000736.541', 'nighttime': '000686.132'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:26:44', 'daytime': '000736.541', 'nighttime': '000686.134'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:27:44', 'daytime': '000736.541', 'nighttime': '000686.135'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:28:44', 'daytime': '000736.541', 'nighttime': '000686.137'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:29:44', 'daytime': '000736.541', 'nighttime': '000686.138'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:30:44', 'daytime': '000736.541', 'nighttime': '000686.140'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:31:44', 'daytime': '000736.541', 'nighttime': '000686.141'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:32:44', 'daytime': '000736.541', 'nighttime': '000686.143'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:33:44', 'daytime': '000736.541', 'nighttime': '000686.145'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:34:44', 'daytime': '000736.541', 'nighttime': '000686.146'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:35:44', 'daytime': '000736.541', 'nighttime': '000686.148'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:36:44', 'daytime': '000736.541', 'nighttime': '000686.149'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:37:44', 'daytime': '000736.541', 'nighttime': '000686.151'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:38:44', 'daytime': '000736.541', 'nighttime': '000686.152'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:39:44', 'daytime': '000736.541', 'nighttime': '000686.154'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:40:44', 'daytime': '000736.541', 'nighttime': '000686.155'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:41:44', 'daytime': '000736.541', 'nighttime': '000686.157'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:42:44', 'daytime': '000736.541', 'nighttime': '000686.158'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:43:44', 'daytime': '000736.541', 'nighttime': '000686.160'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:44:44', 'daytime': '000736.541', 'nighttime': '000686.161'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:45:44', 'daytime': '000736.541', 'nighttime': '000686.164'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:46:44', 'daytime': '000736.541', 'nighttime': '000686.167'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:47:44', 'daytime': '000736.541', 'nighttime': '000686.170'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:48:44', 'daytime': '000736.541', 'nighttime': '000686.172'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:49:44', 'daytime': '000736.541', 'nighttime': '000686.175'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:50:44', 'daytime': '000736.541', 'nighttime': '000686.178'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:51:44', 'daytime': '000736.541', 'nighttime': '000686.181'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:52:44', 'daytime': '000736.541', 'nighttime': '000686.183'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:53:44', 'daytime': '000736.541', 'nighttime': '000686.186'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:54:44', 'daytime': '000736.541', 'nighttime': '000686.189'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:55:44', 'daytime': '000736.541', 'nighttime': '000686.191'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:56:44', 'daytime': '000736.541', 'nighttime': '000686.194'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:57:44', 'daytime': '000736.541', 'nighttime': '000686.197'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:58:44', 'daytime': '000736.541', 'nighttime': '000686.199'}
+<Response [201]>
+{'timestamp': '2021-05-03T02:59:44', 'daytime': '000736.541', 'nighttime': '000686.202'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:00:44', 'daytime': '000736.541', 'nighttime': '000686.205'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:01:44', 'daytime': '000736.541', 'nighttime': '000686.207'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:02:44', 'daytime': '000736.541', 'nighttime': '000686.210'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:03:44', 'daytime': '000736.541', 'nighttime': '000686.213'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:04:44', 'daytime': '000736.541', 'nighttime': '000686.215'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:05:44', 'daytime': '000736.541', 'nighttime': '000686.218'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:06:44', 'daytime': '000736.541', 'nighttime': '000686.220'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:07:44', 'daytime': '000736.541', 'nighttime': '000686.223'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:08:44', 'daytime': '000736.541', 'nighttime': '000686.226'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:09:44', 'daytime': '000736.541', 'nighttime': '000686.228'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:10:44', 'daytime': '000736.541', 'nighttime': '000686.229'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:11:44', 'daytime': '000736.541', 'nighttime': '000686.231'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:12:44', 'daytime': '000736.541', 'nighttime': '000686.232'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:13:44', 'daytime': '000736.541', 'nighttime': '000686.234'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:14:44', 'daytime': '000736.541', 'nighttime': '000686.236'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:15:44', 'daytime': '000736.541', 'nighttime': '000686.237'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:16:44', 'daytime': '000736.541', 'nighttime': '000686.239'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:17:44', 'daytime': '000736.541', 'nighttime': '000686.240'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:18:44', 'daytime': '000736.541', 'nighttime': '000686.242'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:19:44', 'daytime': '000736.541', 'nighttime': '000686.243'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:20:44', 'daytime': '000736.541', 'nighttime': '000686.245'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:21:44', 'daytime': '000736.541', 'nighttime': '000686.246'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:22:44', 'daytime': '000736.541', 'nighttime': '000686.248'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:23:44', 'daytime': '000736.541', 'nighttime': '000686.249'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:24:44', 'daytime': '000736.541', 'nighttime': '000686.251'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:25:44', 'daytime': '000736.541', 'nighttime': '000686.252'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:26:44', 'daytime': '000736.541', 'nighttime': '000686.254'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:27:44', 'daytime': '000736.541', 'nighttime': '000686.255'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:28:44', 'daytime': '000736.541', 'nighttime': '000686.257'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:29:44', 'daytime': '000736.541', 'nighttime': '000686.258'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:30:44', 'daytime': '000736.541', 'nighttime': '000686.260'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:31:44', 'daytime': '000736.541', 'nighttime': '000686.261'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:32:44', 'daytime': '000736.541', 'nighttime': '000686.263'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:33:44', 'daytime': '000736.541', 'nighttime': '000686.264'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:34:44', 'daytime': '000736.541', 'nighttime': '000686.266'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:35:44', 'daytime': '000736.541', 'nighttime': '000686.267'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:36:44', 'daytime': '000736.541', 'nighttime': '000686.269'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:37:44', 'daytime': '000736.541', 'nighttime': '000686.270'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:38:44', 'daytime': '000736.541', 'nighttime': '000686.272'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:39:44', 'daytime': '000736.541', 'nighttime': '000686.273'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:40:44', 'daytime': '000736.541', 'nighttime': '000686.275'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:41:44', 'daytime': '000736.541', 'nighttime': '000686.276'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:42:44', 'daytime': '000736.541', 'nighttime': '000686.278'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:43:44', 'daytime': '000736.541', 'nighttime': '000686.279'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:44:44', 'daytime': '000736.541', 'nighttime': '000686.281'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:45:44', 'daytime': '000736.541', 'nighttime': '000686.283'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:46:44', 'daytime': '000736.541', 'nighttime': '000686.285'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:47:44', 'daytime': '000736.541', 'nighttime': '000686.286'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:48:44', 'daytime': '000736.541', 'nighttime': '000686.288'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:49:44', 'daytime': '000736.541', 'nighttime': '000686.289'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:50:44', 'daytime': '000736.541', 'nighttime': '000686.291'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:51:44', 'daytime': '000736.541', 'nighttime': '000686.292'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:52:44', 'daytime': '000736.541', 'nighttime': '000686.294'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:53:44', 'daytime': '000736.541', 'nighttime': '000686.295'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:54:44', 'daytime': '000736.541', 'nighttime': '000686.297'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:55:44', 'daytime': '000736.541', 'nighttime': '000686.299'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:56:44', 'daytime': '000736.541', 'nighttime': '000686.300'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:57:44', 'daytime': '000736.541', 'nighttime': '000686.302'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:58:44', 'daytime': '000736.541', 'nighttime': '000686.303'}
+<Response [201]>
+{'timestamp': '2021-05-03T03:59:44', 'daytime': '000736.541', 'nighttime': '000686.305'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:00:44', 'daytime': '000736.541', 'nighttime': '000686.306'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:01:44', 'daytime': '000736.541', 'nighttime': '000686.308'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:02:44', 'daytime': '000736.541', 'nighttime': '000686.309'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:03:44', 'daytime': '000736.541', 'nighttime': '000686.311'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:04:44', 'daytime': '000736.541', 'nighttime': '000686.312'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:05:44', 'daytime': '000736.541', 'nighttime': '000686.314'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:06:44', 'daytime': '000736.541', 'nighttime': '000686.315'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:07:44', 'daytime': '000736.541', 'nighttime': '000686.317'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:08:44', 'daytime': '000736.541', 'nighttime': '000686.318'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:09:44', 'daytime': '000736.541', 'nighttime': '000686.320'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:10:44', 'daytime': '000736.541', 'nighttime': '000686.321'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:11:44', 'daytime': '000736.541', 'nighttime': '000686.323'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:12:44', 'daytime': '000736.541', 'nighttime': '000686.324'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:13:44', 'daytime': '000736.541', 'nighttime': '000686.326'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:14:44', 'daytime': '000736.541', 'nighttime': '000686.327'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:15:44', 'daytime': '000736.541', 'nighttime': '000686.329'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:16:44', 'daytime': '000736.541', 'nighttime': '000686.330'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:17:44', 'daytime': '000736.541', 'nighttime': '000686.332'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:18:44', 'daytime': '000736.541', 'nighttime': '000686.334'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:19:44', 'daytime': '000736.541', 'nighttime': '000686.336'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:20:44', 'daytime': '000736.541', 'nighttime': '000686.338'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:21:44', 'daytime': '000736.541', 'nighttime': '000686.340'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:22:44', 'daytime': '000736.541', 'nighttime': '000686.341'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:23:44', 'daytime': '000736.541', 'nighttime': '000686.343'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:24:44', 'daytime': '000736.541', 'nighttime': '000686.344'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:25:44', 'daytime': '000736.541', 'nighttime': '000686.346'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:26:44', 'daytime': '000736.541', 'nighttime': '000686.347'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:27:44', 'daytime': '000736.541', 'nighttime': '000686.350'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:28:44', 'daytime': '000736.541', 'nighttime': '000686.353'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:29:44', 'daytime': '000736.541', 'nighttime': '000686.356'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:30:44', 'daytime': '000736.541', 'nighttime': '000686.359'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:31:44', 'daytime': '000736.541', 'nighttime': '000686.362'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:32:44', 'daytime': '000736.541', 'nighttime': '000686.365'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:33:44', 'daytime': '000736.541', 'nighttime': '000686.368'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:34:44', 'daytime': '000736.541', 'nighttime': '000686.371'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:35:44', 'daytime': '000736.541', 'nighttime': '000686.375'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:36:44', 'daytime': '000736.541', 'nighttime': '000686.378'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:37:44', 'daytime': '000736.541', 'nighttime': '000686.381'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:38:44', 'daytime': '000736.541', 'nighttime': '000686.384'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:39:44', 'daytime': '000736.541', 'nighttime': '000686.387'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:40:44', 'daytime': '000736.541', 'nighttime': '000686.389'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:41:44', 'daytime': '000736.541', 'nighttime': '000686.392'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:42:44', 'daytime': '000736.541', 'nighttime': '000686.395'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:43:44', 'daytime': '000736.541', 'nighttime': '000686.397'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:44:44', 'daytime': '000736.541', 'nighttime': '000686.400'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:45:44', 'daytime': '000736.541', 'nighttime': '000686.403'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:46:44', 'daytime': '000736.541', 'nighttime': '000686.405'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:47:44', 'daytime': '000736.541', 'nighttime': '000686.409'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:48:44', 'daytime': '000736.541', 'nighttime': '000686.412'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:49:44', 'daytime': '000736.541', 'nighttime': '000686.415'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:50:44', 'daytime': '000736.541', 'nighttime': '000686.417'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:51:44', 'daytime': '000736.541', 'nighttime': '000686.420'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:52:44', 'daytime': '000736.541', 'nighttime': '000686.422'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:53:44', 'daytime': '000736.541', 'nighttime': '000686.423'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:54:44', 'daytime': '000736.541', 'nighttime': '000686.425'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:55:44', 'daytime': '000736.541', 'nighttime': '000686.426'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:56:44', 'daytime': '000736.541', 'nighttime': '000686.428'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:57:44', 'daytime': '000736.541', 'nighttime': '000686.429'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:58:44', 'daytime': '000736.541', 'nighttime': '000686.431'}
+<Response [201]>
+{'timestamp': '2021-05-03T04:59:44', 'daytime': '000736.541', 'nighttime': '000686.433'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:00:44', 'daytime': '000736.541', 'nighttime': '000686.435'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:01:44', 'daytime': '000736.541', 'nighttime': '000686.437'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:02:44', 'daytime': '000736.541', 'nighttime': '000686.439'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:03:44', 'daytime': '000736.541', 'nighttime': '000686.440'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:04:44', 'daytime': '000736.541', 'nighttime': '000686.442'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:05:44', 'daytime': '000736.541', 'nighttime': '000686.444'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:06:44', 'daytime': '000736.541', 'nighttime': '000686.445'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:07:44', 'daytime': '000736.541', 'nighttime': '000686.447'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:08:44', 'daytime': '000736.541', 'nighttime': '000686.448'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:09:44', 'daytime': '000736.541', 'nighttime': '000686.451'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:10:44', 'daytime': '000736.541', 'nighttime': '000686.453'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:11:44', 'daytime': '000736.541', 'nighttime': '000686.455'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:12:44', 'daytime': '000736.541', 'nighttime': '000686.456'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:13:44', 'daytime': '000736.541', 'nighttime': '000686.458'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:14:44', 'daytime': '000736.541', 'nighttime': '000686.460'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:15:44', 'daytime': '000736.541', 'nighttime': '000686.462'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:16:44', 'daytime': '000736.541', 'nighttime': '000686.463'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:17:44', 'daytime': '000736.541', 'nighttime': '000686.465'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:18:44', 'daytime': '000736.541', 'nighttime': '000686.467'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:19:44', 'daytime': '000736.541', 'nighttime': '000686.469'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:20:44', 'daytime': '000736.541', 'nighttime': '000686.471'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:21:44', 'daytime': '000736.541', 'nighttime': '000686.472'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:22:44', 'daytime': '000736.541', 'nighttime': '000686.474'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:23:44', 'daytime': '000736.541', 'nighttime': '000686.475'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:24:44', 'daytime': '000736.541', 'nighttime': '000686.477'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:25:44', 'daytime': '000736.541', 'nighttime': '000686.478'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:26:44', 'daytime': '000736.541', 'nighttime': '000686.480'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:27:44', 'daytime': '000736.541', 'nighttime': '000686.481'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:28:44', 'daytime': '000736.541', 'nighttime': '000686.483'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:29:44', 'daytime': '000736.541', 'nighttime': '000686.485'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:30:44', 'daytime': '000736.541', 'nighttime': '000686.487'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:31:44', 'daytime': '000736.541', 'nighttime': '000686.489'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:32:44', 'daytime': '000736.541', 'nighttime': '000686.491'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:33:44', 'daytime': '000736.541', 'nighttime': '000686.493'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:34:44', 'daytime': '000736.541', 'nighttime': '000686.495'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:35:44', 'daytime': '000736.541', 'nighttime': '000686.496'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:36:44', 'daytime': '000736.541', 'nighttime': '000686.498'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:37:44', 'daytime': '000736.541', 'nighttime': '000686.500'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:38:44', 'daytime': '000736.541', 'nighttime': '000686.501'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:39:44', 'daytime': '000736.541', 'nighttime': '000686.504'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:40:44', 'daytime': '000736.541', 'nighttime': '000686.506'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:41:44', 'daytime': '000736.541', 'nighttime': '000686.508'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:42:44', 'daytime': '000736.541', 'nighttime': '000686.509'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:43:44', 'daytime': '000736.541', 'nighttime': '000686.511'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:44:44', 'daytime': '000736.541', 'nighttime': '000686.513'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:45:44', 'daytime': '000736.541', 'nighttime': '000686.515'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:46:44', 'daytime': '000736.541', 'nighttime': '000686.516'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:47:44', 'daytime': '000736.541', 'nighttime': '000686.518'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:48:44', 'daytime': '000736.541', 'nighttime': '000686.519'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:49:44', 'daytime': '000736.541', 'nighttime': '000686.522'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:50:44', 'daytime': '000736.541', 'nighttime': '000686.524'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:51:44', 'daytime': '000736.541', 'nighttime': '000686.526'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:52:44', 'daytime': '000736.541', 'nighttime': '000686.527'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:53:44', 'daytime': '000736.541', 'nighttime': '000686.529'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:54:44', 'daytime': '000736.541', 'nighttime': '000686.531'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:55:44', 'daytime': '000736.541', 'nighttime': '000686.532'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:56:44', 'daytime': '000736.541', 'nighttime': '000686.534'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:57:44', 'daytime': '000736.541', 'nighttime': '000686.535'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:58:44', 'daytime': '000736.541', 'nighttime': '000686.537'}
+<Response [201]>
+{'timestamp': '2021-05-03T05:59:44', 'daytime': '000736.541', 'nighttime': '000686.539'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:00:44', 'daytime': '000736.541', 'nighttime': '000686.542'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:01:44', 'daytime': '000736.541', 'nighttime': '000686.543'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:02:44', 'daytime': '000736.541', 'nighttime': '000686.545'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:03:44', 'daytime': '000736.541', 'nighttime': '000686.547'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:04:44', 'daytime': '000736.541', 'nighttime': '000686.549'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:05:44', 'daytime': '000736.541', 'nighttime': '000686.551'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:06:44', 'daytime': '000736.541', 'nighttime': '000686.552'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:07:44', 'daytime': '000736.541', 'nighttime': '000686.554'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:08:44', 'daytime': '000736.541', 'nighttime': '000686.556'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:09:44', 'daytime': '000736.541', 'nighttime': '000686.558'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:10:44', 'daytime': '000736.541', 'nighttime': '000686.560'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:11:44', 'daytime': '000736.541', 'nighttime': '000686.562'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:12:44', 'daytime': '000736.541', 'nighttime': '000686.565'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:13:44', 'daytime': '000736.541', 'nighttime': '000686.568'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:14:44', 'daytime': '000736.541', 'nighttime': '000686.571'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:15:44', 'daytime': '000736.541', 'nighttime': '000686.574'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:16:44', 'daytime': '000736.541', 'nighttime': '000686.577'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:17:44', 'daytime': '000736.541', 'nighttime': '000686.579'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:18:44', 'daytime': '000736.541', 'nighttime': '000686.582'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:19:44', 'daytime': '000736.541', 'nighttime': '000686.585'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:20:44', 'daytime': '000736.541', 'nighttime': '000686.589'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:21:44', 'daytime': '000736.541', 'nighttime': '000686.592'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:22:44', 'daytime': '000736.541', 'nighttime': '000686.595'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:23:44', 'daytime': '000736.541', 'nighttime': '000686.598'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:24:44', 'daytime': '000736.541', 'nighttime': '000686.601'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:25:44', 'daytime': '000736.541', 'nighttime': '000686.604'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:26:44', 'daytime': '000736.541', 'nighttime': '000686.606'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:27:44', 'daytime': '000736.541', 'nighttime': '000686.609'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:28:44', 'daytime': '000736.541', 'nighttime': '000686.612'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:29:44', 'daytime': '000736.541', 'nighttime': '000686.615'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:30:44', 'daytime': '000736.541', 'nighttime': '000686.618'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:31:44', 'daytime': '000736.541', 'nighttime': '000686.621'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:32:44', 'daytime': '000736.541', 'nighttime': '000686.624'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:33:44', 'daytime': '000736.541', 'nighttime': '000686.627'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:34:44', 'daytime': '000736.541', 'nighttime': '000686.630'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:35:44', 'daytime': '000736.541', 'nighttime': '000686.633'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:36:44', 'daytime': '000736.541', 'nighttime': '000686.635'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:37:44', 'daytime': '000736.541', 'nighttime': '000686.637'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:38:44', 'daytime': '000736.541', 'nighttime': '000686.639'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:39:44', 'daytime': '000736.541', 'nighttime': '000686.640'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:40:44', 'daytime': '000736.541', 'nighttime': '000686.643'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:41:44', 'daytime': '000736.541', 'nighttime': '000686.645'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:42:44', 'daytime': '000736.541', 'nighttime': '000686.646'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:43:44', 'daytime': '000736.541', 'nighttime': '000686.648'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:44:44', 'daytime': '000736.541', 'nighttime': '000686.650'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:45:44', 'daytime': '000736.541', 'nighttime': '000686.652'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:46:44', 'daytime': '000736.541', 'nighttime': '000686.653'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:47:44', 'daytime': '000736.541', 'nighttime': '000686.655'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:48:44', 'daytime': '000736.541', 'nighttime': '000686.656'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:49:44', 'daytime': '000736.541', 'nighttime': '000686.658'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:50:44', 'daytime': '000736.541', 'nighttime': '000686.660'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:51:44', 'daytime': '000736.541', 'nighttime': '000686.662'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:52:44', 'daytime': '000736.541', 'nighttime': '000686.664'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:53:44', 'daytime': '000736.541', 'nighttime': '000686.666'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:54:44', 'daytime': '000736.541', 'nighttime': '000686.668'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:55:44', 'daytime': '000736.541', 'nighttime': '000686.669'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:56:44', 'daytime': '000736.541', 'nighttime': '000686.671'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:57:44', 'daytime': '000736.541', 'nighttime': '000686.672'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:58:44', 'daytime': '000736.541', 'nighttime': '000686.674'}
+<Response [201]>
+{'timestamp': '2021-05-03T06:59:44', 'daytime': '000736.541', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:00:44', 'daytime': '000736.543', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:01:44', 'daytime': '000736.545', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:02:44', 'daytime': '000736.548', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:03:44', 'daytime': '000736.550', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:04:44', 'daytime': '000736.551', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:05:44', 'daytime': '000736.553', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:06:44', 'daytime': '000736.555', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:07:44', 'daytime': '000736.557', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:08:44', 'daytime': '000736.559', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:09:44', 'daytime': '000736.561', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:10:44', 'daytime': '000736.563', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:11:44', 'daytime': '000736.565', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:12:44', 'daytime': '000736.567', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:13:44', 'daytime': '000736.569', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:14:44', 'daytime': '000736.571', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:15:44', 'daytime': '000736.573', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:16:44', 'daytime': '000736.575', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:17:44', 'daytime': '000736.577', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:18:44', 'daytime': '000736.579', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:19:44', 'daytime': '000736.580', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:20:44', 'daytime': '000736.582', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:21:44', 'daytime': '000736.585', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:22:44', 'daytime': '000736.587', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:23:44', 'daytime': '000736.589', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:24:44', 'daytime': '000736.591', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:25:44', 'daytime': '000736.593', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:26:44', 'daytime': '000736.595', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:27:44', 'daytime': '000736.597', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:28:44', 'daytime': '000736.599', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:29:44', 'daytime': '000736.601', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:30:44', 'daytime': '000736.603', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:31:44', 'daytime': '000736.605', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:32:44', 'daytime': '000736.606', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:33:44', 'daytime': '000736.608', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:34:44', 'daytime': '000736.610', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:35:44', 'daytime': '000736.612', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:36:44', 'daytime': '000736.614', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:37:44', 'daytime': '000736.616', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:38:44', 'daytime': '000736.618', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:39:44', 'daytime': '000736.620', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:40:44', 'daytime': '000736.622', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:41:44', 'daytime': '000736.624', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:42:44', 'daytime': '000736.626', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:43:44', 'daytime': '000736.628', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:44:44', 'daytime': '000736.630', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:45:44', 'daytime': '000736.632', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:46:44', 'daytime': '000736.633', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:47:44', 'daytime': '000736.635', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:48:44', 'daytime': '000736.637', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:49:44', 'daytime': '000736.639', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:50:44', 'daytime': '000736.641', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:51:44', 'daytime': '000736.643', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:52:44', 'daytime': '000736.644', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:53:44', 'daytime': '000736.646', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:54:44', 'daytime': '000736.648', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:55:44', 'daytime': '000736.650', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:56:44', 'daytime': '000736.652', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:57:44', 'daytime': '000736.654', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:58:44', 'daytime': '000736.657', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T07:59:44', 'daytime': '000736.661', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:00:44', 'daytime': '000736.664', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:01:44', 'daytime': '000736.668', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:02:44', 'daytime': '000736.671', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:03:44', 'daytime': '000736.674', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:04:44', 'daytime': '000736.677', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:05:44', 'daytime': '000736.680', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:06:44', 'daytime': '000736.683', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:07:44', 'daytime': '000736.686', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:08:44', 'daytime': '000736.689', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:09:44', 'daytime': '000736.693', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:10:44', 'daytime': '000736.696', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:11:44', 'daytime': '000736.699', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:12:44', 'daytime': '000736.701', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:13:44', 'daytime': '000736.704', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:14:44', 'daytime': '000736.707', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:15:44', 'daytime': '000736.710', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:16:44', 'daytime': '000736.713', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:17:44', 'daytime': '000736.716', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:18:44', 'daytime': '000736.719', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:19:44', 'daytime': '000736.722', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:20:44', 'daytime': '000736.725', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:21:44', 'daytime': '000736.729', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:22:44', 'daytime': '000736.732', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:23:44', 'daytime': '000736.734', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:24:44', 'daytime': '000736.736', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:25:44', 'daytime': '000736.738', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:26:44', 'daytime': '000736.740', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:27:44', 'daytime': '000736.741', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:28:44', 'daytime': '000736.743', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:29:44', 'daytime': '000736.745', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:30:44', 'daytime': '000736.747', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:31:44', 'daytime': '000736.749', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:32:44', 'daytime': '000736.751', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:33:44', 'daytime': '000736.753', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:34:44', 'daytime': '000736.755', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:35:44', 'daytime': '000736.756', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:36:44', 'daytime': '000736.758', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:37:44', 'daytime': '000736.760', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:38:44', 'daytime': '000736.762', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:39:44', 'daytime': '000736.763', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:40:44', 'daytime': '000736.765', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:41:44', 'daytime': '000736.767', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:42:44', 'daytime': '000736.769', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:43:44', 'daytime': '000736.771', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:44:44', 'daytime': '000736.773', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:45:44', 'daytime': '000736.775', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:46:44', 'daytime': '000736.777', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:47:44', 'daytime': '000736.779', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:48:44', 'daytime': '000736.781', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:49:44', 'daytime': '000736.783', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:50:44', 'daytime': '000736.785', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:51:44', 'daytime': '000736.787', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:52:44', 'daytime': '000736.789', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:53:44', 'daytime': '000736.791', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:54:44', 'daytime': '000736.793', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:55:44', 'daytime': '000736.795', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:56:44', 'daytime': '000736.797', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:57:44', 'daytime': '000736.799', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:58:44', 'daytime': '000736.801', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T08:59:44', 'daytime': '000736.802', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:00:44', 'daytime': '000736.804', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:01:44', 'daytime': '000736.806', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:02:44', 'daytime': '000736.808', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:03:44', 'daytime': '000736.810', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:04:44', 'daytime': '000736.812', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:05:44', 'daytime': '000736.813', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:06:44', 'daytime': '000736.815', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:07:44', 'daytime': '000736.817', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:08:44', 'daytime': '000736.819', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:09:44', 'daytime': '000736.821', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:10:44', 'daytime': '000736.823', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:11:44', 'daytime': '000736.825', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:12:44', 'daytime': '000736.827', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:13:44', 'daytime': '000736.829', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:14:44', 'daytime': '000736.831', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:15:44', 'daytime': '000736.833', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:16:44', 'daytime': '000736.835', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:17:44', 'daytime': '000736.837', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:18:44', 'daytime': '000736.840', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:19:44', 'daytime': '000736.841', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:20:44', 'daytime': '000736.843', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:21:44', 'daytime': '000736.846', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:22:44', 'daytime': '000736.848', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:23:44', 'daytime': '000736.850', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:24:44', 'daytime': '000736.852', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:25:44', 'daytime': '000736.854', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:26:44', 'daytime': '000736.856', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:27:44', 'daytime': '000736.857', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:28:44', 'daytime': '000736.860', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:29:44', 'daytime': '000736.862', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:30:44', 'daytime': '000736.864', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:31:44', 'daytime': '000736.866', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:32:44', 'daytime': '000736.867', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:33:44', 'daytime': '000736.869', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:34:44', 'daytime': '000736.871', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:35:44', 'daytime': '000736.873', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:36:44', 'daytime': '000736.876', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:37:44', 'daytime': '000736.878', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:38:44', 'daytime': '000736.880', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:39:44', 'daytime': '000736.883', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:40:44', 'daytime': '000736.886', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:41:44', 'daytime': '000736.890', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:42:44', 'daytime': '000736.893', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:43:44', 'daytime': '000736.896', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:44:44', 'daytime': '000736.899', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:45:44', 'daytime': '000736.902', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:46:44', 'daytime': '000736.905', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:47:44', 'daytime': '000736.908', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:48:44', 'daytime': '000736.911', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:49:44', 'daytime': '000736.914', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:50:44', 'daytime': '000736.917', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:51:44', 'daytime': '000736.919', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:52:44', 'daytime': '000736.922', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:53:44', 'daytime': '000736.925', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:54:44', 'daytime': '000736.928', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:55:44', 'daytime': '000736.931', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:56:44', 'daytime': '000736.934', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:57:44', 'daytime': '000736.937', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:58:44', 'daytime': '000736.940', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T09:59:44', 'daytime': '000736.943', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:00:44', 'daytime': '000736.946', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:01:44', 'daytime': '000736.949', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:02:44', 'daytime': '000736.952', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:03:44', 'daytime': '000736.955', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:04:44', 'daytime': '000736.957', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:05:44', 'daytime': '000736.959', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:06:44', 'daytime': '000736.961', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:07:44', 'daytime': '000736.963', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:08:44', 'daytime': '000736.964', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:09:44', 'daytime': '000736.966', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:10:44', 'daytime': '000736.968', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:11:44', 'daytime': '000736.970', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:12:44', 'daytime': '000736.971', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:13:44', 'daytime': '000736.973', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:14:44', 'daytime': '000736.975', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:15:44', 'daytime': '000736.976', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:16:44', 'daytime': '000736.978', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:17:44', 'daytime': '000736.980', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:18:44', 'daytime': '000736.982', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:19:44', 'daytime': '000736.984', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:20:44', 'daytime': '000736.986', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:21:44', 'daytime': '000736.988', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:22:44', 'daytime': '000736.990', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:23:44', 'daytime': '000736.992', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:24:44', 'daytime': '000736.993', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:25:44', 'daytime': '000736.995', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:26:44', 'daytime': '000736.997', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:27:44', 'daytime': '000736.999', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:28:44', 'daytime': '000737.001', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:29:44', 'daytime': '000737.003', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:30:44', 'daytime': '000737.004', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:31:44', 'daytime': '000737.006', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:32:44', 'daytime': '000737.008', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:33:44', 'daytime': '000737.009', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:34:44', 'daytime': '000737.011', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:35:44', 'daytime': '000737.013', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:36:44', 'daytime': '000737.014', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:37:44', 'daytime': '000737.016', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:38:44', 'daytime': '000737.018', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:39:44', 'daytime': '000737.020', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:40:44', 'daytime': '000737.022', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:41:44', 'daytime': '000737.024', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:42:44', 'daytime': '000737.026', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:43:44', 'daytime': '000737.028', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:44:44', 'daytime': '000737.029', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:45:44', 'daytime': '000737.031', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:46:44', 'daytime': '000737.033', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:47:44', 'daytime': '000737.035', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:48:44', 'daytime': '000737.037', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:49:44', 'daytime': '000737.039', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:50:44', 'daytime': '000737.040', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:51:44', 'daytime': '000737.042', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:52:44', 'daytime': '000737.044', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:53:44', 'daytime': '000737.046', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:54:44', 'daytime': '000737.047', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:55:44', 'daytime': '000737.049', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:56:44', 'daytime': '000737.051', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:57:44', 'daytime': '000737.052', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:58:44', 'daytime': '000737.054', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T10:59:44', 'daytime': '000737.056', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:00:44', 'daytime': '000737.057', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:01:44', 'daytime': '000737.060', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:02:44', 'daytime': '000737.062', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:03:44', 'daytime': '000737.064', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:04:44', 'daytime': '000737.066', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:05:44', 'daytime': '000737.067', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:06:44', 'daytime': '000737.069', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:07:44', 'daytime': '000737.071', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:08:44', 'daytime': '000737.073', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:09:44', 'daytime': '000737.075', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:10:44', 'daytime': '000737.076', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:11:44', 'daytime': '000737.078', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:12:44', 'daytime': '000737.080', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:13:44', 'daytime': '000737.082', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:14:44', 'daytime': '000737.083', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:15:44', 'daytime': '000737.085', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:16:44', 'daytime': '000737.087', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:17:44', 'daytime': '000737.088', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:18:44', 'daytime': '000737.090', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:19:44', 'daytime': '000737.092', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:20:44', 'daytime': '000737.093', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:21:44', 'daytime': '000737.095', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:22:44', 'daytime': '000737.098', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:23:44', 'daytime': '000737.100', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:24:44', 'daytime': '000737.101', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:25:44', 'daytime': '000737.103', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:26:44', 'daytime': '000737.105', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:27:44', 'daytime': '000737.107', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:28:44', 'daytime': '000737.110', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:29:44', 'daytime': '000737.113', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:30:44', 'daytime': '000737.116', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:31:44', 'daytime': '000737.119', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:32:44', 'daytime': '000737.122', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:33:44', 'daytime': '000737.125', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:34:44', 'daytime': '000737.128', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:35:44', 'daytime': '000737.131', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:36:44', 'daytime': '000737.134', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:37:44', 'daytime': '000737.136', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:38:44', 'daytime': '000737.139', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:39:44', 'daytime': '000737.142', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:40:44', 'daytime': '000737.145', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:41:44', 'daytime': '000737.148', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:42:44', 'daytime': '000737.152', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:43:44', 'daytime': '000737.155', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:44:44', 'daytime': '000737.158', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:45:44', 'daytime': '000737.161', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:46:44', 'daytime': '000737.164', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:47:44', 'daytime': '000737.167', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:48:44', 'daytime': '000737.169', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:49:44', 'daytime': '000737.172', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:50:44', 'daytime': '000737.175', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:51:44', 'daytime': '000737.178', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:52:44', 'daytime': '000737.181', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:53:44', 'daytime': '000737.184', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:54:44', 'daytime': '000737.185', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:55:44', 'daytime': '000737.187', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:56:44', 'daytime': '000737.189', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:57:44', 'daytime': '000737.191', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:58:44', 'daytime': '000737.192', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T11:59:44', 'daytime': '000737.194', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:00:44', 'daytime': '000737.196', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:01:44', 'daytime': '000737.198', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:02:44', 'daytime': '000737.199', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:03:44', 'daytime': '000737.202', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:04:44', 'daytime': '000737.204', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:05:44', 'daytime': '000737.206', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:06:44', 'daytime': '000737.207', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:07:44', 'daytime': '000737.209', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:08:44', 'daytime': '000737.211', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:09:44', 'daytime': '000737.213', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:10:44', 'daytime': '000737.215', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:11:44', 'daytime': '000737.216', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:12:44', 'daytime': '000737.218', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:13:44', 'daytime': '000737.220', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:14:44', 'daytime': '000737.222', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:15:44', 'daytime': '000737.223', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:16:44', 'daytime': '000737.225', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:17:44', 'daytime': '000737.227', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:18:44', 'daytime': '000737.228', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:19:44', 'daytime': '000737.230', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:20:44', 'daytime': '000737.232', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:21:44', 'daytime': '000737.233', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:22:44', 'daytime': '000737.235', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:23:44', 'daytime': '000737.237', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:24:44', 'daytime': '000737.238', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:25:44', 'daytime': '000737.240', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:26:44', 'daytime': '000737.242', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:27:44', 'daytime': '000737.243', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:28:44', 'daytime': '000737.245', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:29:44', 'daytime': '000737.248', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:30:44', 'daytime': '000737.249', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:31:44', 'daytime': '000737.251', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:32:44', 'daytime': '000737.253', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:33:44', 'daytime': '000737.254', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:34:44', 'daytime': '000737.256', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:35:44', 'daytime': '000737.258', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:36:44', 'daytime': '000737.259', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:37:44', 'daytime': '000737.261', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:38:44', 'daytime': '000737.263', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:39:44', 'daytime': '000737.265', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:40:44', 'daytime': '000737.267', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:41:44', 'daytime': '000737.269', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:42:44', 'daytime': '000737.270', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:43:44', 'daytime': '000737.272', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:44:44', 'daytime': '000737.274', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:45:44', 'daytime': '000737.275', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:46:44', 'daytime': '000737.277', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:47:44', 'daytime': '000737.279', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:48:44', 'daytime': '000737.281', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:49:44', 'daytime': '000737.282', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:50:44', 'daytime': '000737.285', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:51:44', 'daytime': '000737.286', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:52:44', 'daytime': '000737.288', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:53:44', 'daytime': '000737.290', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:54:44', 'daytime': '000737.292', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:55:44', 'daytime': '000737.293', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:56:44', 'daytime': '000737.295', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:57:44', 'daytime': '000737.297', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:58:44', 'daytime': '000737.298', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T12:59:44', 'daytime': '000737.301', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:00:44', 'daytime': '000737.304', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:01:44', 'daytime': '000737.307', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:02:44', 'daytime': '000737.309', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:03:44', 'daytime': '000737.312', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:04:44', 'daytime': '000737.316', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:05:44', 'daytime': '000737.326', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:06:44', 'daytime': '000737.337', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:07:44', 'daytime': '000737.348', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:08:44', 'daytime': '000737.359', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:09:44', 'daytime': '000737.372', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:10:44', 'daytime': '000737.384', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:11:44', 'daytime': '000737.398', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:12:44', 'daytime': '000737.411', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:13:44', 'daytime': '000737.425', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:14:44', 'daytime': '000737.439', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:15:44', 'daytime': '000737.452', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:16:44', 'daytime': '000737.466', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:17:44', 'daytime': '000737.480', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:18:44', 'daytime': '000737.494', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:19:44', 'daytime': '000737.508', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:20:44', 'daytime': '000737.521', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:21:44', 'daytime': '000737.535', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:22:44', 'daytime': '000737.548', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:23:44', 'daytime': '000737.562', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:24:44', 'daytime': '000737.572', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:25:44', 'daytime': '000737.577', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:26:44', 'daytime': '000737.582', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:27:44', 'daytime': '000737.587', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:28:44', 'daytime': '000737.591', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:29:44', 'daytime': '000737.595', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:30:44', 'daytime': '000737.599', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:31:44', 'daytime': '000737.603', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:32:44', 'daytime': '000737.606', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:33:44', 'daytime': '000737.611', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:34:44', 'daytime': '000737.615', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:35:44', 'daytime': '000737.620', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:36:44', 'daytime': '000737.625', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:37:44', 'daytime': '000737.630', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:38:44', 'daytime': '000737.634', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:39:44', 'daytime': '000737.638', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:40:44', 'daytime': '000737.641', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:41:44', 'daytime': '000737.645', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:42:44', 'daytime': '000737.649', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:43:44', 'daytime': '000737.653', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:44:44', 'daytime': '000737.656', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:45:44', 'daytime': '000737.660', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:46:44', 'daytime': '000737.664', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:47:44', 'daytime': '000737.667', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:48:44', 'daytime': '000737.671', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:49:44', 'daytime': '000737.674', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:50:44', 'daytime': '000737.678', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:51:44', 'daytime': '000737.682', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:52:44', 'daytime': '000737.685', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:53:44', 'daytime': '000737.689', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:54:44', 'daytime': '000737.692', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:55:44', 'daytime': '000737.696', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:56:44', 'daytime': '000737.699', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:57:44', 'daytime': '000737.703', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:58:44', 'daytime': '000737.706', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T13:59:44', 'daytime': '000737.710', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:00:44', 'daytime': '000737.713', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:01:44', 'daytime': '000737.717', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:02:44', 'daytime': '000737.720', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:03:44', 'daytime': '000737.724', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:04:44', 'daytime': '000737.728', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:05:44', 'daytime': '000737.732', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:06:44', 'daytime': '000737.736', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:07:44', 'daytime': '000737.739', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:08:44', 'daytime': '000737.743', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:09:44', 'daytime': '000737.746', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:10:44', 'daytime': '000737.750', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:11:44', 'daytime': '000737.753', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:12:44', 'daytime': '000737.757', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:13:44', 'daytime': '000737.760', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:14:44', 'daytime': '000737.764', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:15:44', 'daytime': '000737.767', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:16:44', 'daytime': '000737.771', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:17:44', 'daytime': '000737.775', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:18:44', 'daytime': '000737.778', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:19:44', 'daytime': '000737.782', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:20:44', 'daytime': '000737.785', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:21:44', 'daytime': '000737.789', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:22:44', 'daytime': '000737.792', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:23:44', 'daytime': '000737.796', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:24:44', 'daytime': '000737.799', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:25:44', 'daytime': '000737.803', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:26:44', 'daytime': '000737.807', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:27:44', 'daytime': '000737.810', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:28:44', 'daytime': '000737.814', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:29:44', 'daytime': '000737.817', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:30:44', 'daytime': '000737.821', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:31:44', 'daytime': '000737.824', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:32:44', 'daytime': '000737.827', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:33:44', 'daytime': '000737.831', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:34:44', 'daytime': '000737.835', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:35:44', 'daytime': '000737.838', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:36:44', 'daytime': '000737.842', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:37:44', 'daytime': '000737.846', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:38:44', 'daytime': '000737.849', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:39:44', 'daytime': '000737.853', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:40:44', 'daytime': '000737.856', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:41:44', 'daytime': '000737.860', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:42:44', 'daytime': '000737.863', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:43:45', 'daytime': '000737.866', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:44:44', 'daytime': '000737.870', 'nighttime': '000686.675'}
+Couldn't reach the server.
+{'timestamp': '2021-05-03T14:46:16', 'daytime': '000737.874', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:47:09', 'daytime': '000737.879', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:48:09', 'daytime': '000737.883', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:49:09', 'daytime': '000737.887', 'nighttime': '000686.675'}
+Couldn't reach the server.
+{'timestamp': '2021-05-03T14:50:41', 'daytime': '000737.890', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:51:33', 'daytime': '000737.895', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:52:33', 'daytime': '000737.898', 'nighttime': '000686.675'}
+Couldn't reach the server.
+{'timestamp': '2021-05-03T14:53:32', 'daytime': '000737.902', 'nighttime': '000686.675'}
+Couldn't reach the server.
+{'timestamp': '2021-05-03T14:54:36', 'daytime': '000737.906', 'nighttime': '000686.675'}
+Couldn't reach the server.
+{'timestamp': '2021-05-03T14:55:36', 'daytime': '000737.910', 'nighttime': '000686.675'}
+Couldn't reach the server.
+{'timestamp': '2021-05-03T14:56:36', 'daytime': '000737.913', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:57:33', 'daytime': '000737.917', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:58:33', 'daytime': '000737.921', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T14:59:33', 'daytime': '000737.923', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:00:33', 'daytime': '000737.926', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:01:33', 'daytime': '000737.928', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:02:33', 'daytime': '000737.930', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:03:33', 'daytime': '000737.932', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:04:33', 'daytime': '000737.935', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:05:33', 'daytime': '000737.937', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:06:33', 'daytime': '000737.940', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:07:33', 'daytime': '000737.943', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:08:33', 'daytime': '000737.946', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:09:33', 'daytime': '000737.948', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:10:33', 'daytime': '000737.950', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:11:33', 'daytime': '000737.952', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:12:33', 'daytime': '000737.954', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:13:33', 'daytime': '000737.956', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:14:33', 'daytime': '000737.958', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:15:33', 'daytime': '000737.961', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:16:33', 'daytime': '000737.964', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:17:33', 'daytime': '000737.966', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:18:33', 'daytime': '000737.969', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:19:33', 'daytime': '000737.971', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:20:33', 'daytime': '000737.973', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:21:33', 'daytime': '000737.975', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:22:33', 'daytime': '000737.977', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:23:33', 'daytime': '000737.979', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:24:33', 'daytime': '000737.982', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:25:33', 'daytime': '000737.985', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:26:33', 'daytime': '000737.987', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:27:33', 'daytime': '000737.990', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:28:33', 'daytime': '000737.992', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:29:33', 'daytime': '000737.994', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:30:33', 'daytime': '000737.997', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:31:33', 'daytime': '000737.999', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:32:33', 'daytime': '000738.001', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:33:33', 'daytime': '000738.003', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:34:33', 'daytime': '000738.005', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:35:33', 'daytime': '000738.007', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:36:33', 'daytime': '000738.010', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:37:33', 'daytime': '000738.013', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:38:33', 'daytime': '000738.015', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:39:33', 'daytime': '000738.017', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:40:33', 'daytime': '000738.019', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:41:33', 'daytime': '000738.022', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:42:33', 'daytime': '000738.024', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:43:33', 'daytime': '000738.026', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:44:33', 'daytime': '000738.030', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:45:33', 'daytime': '000738.034', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:46:33', 'daytime': '000738.038', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:47:33', 'daytime': '000738.042', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:48:33', 'daytime': '000738.045', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:49:33', 'daytime': '000738.049', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:50:33', 'daytime': '000738.053', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:51:33', 'daytime': '000738.056', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:52:33', 'daytime': '000738.058', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:53:33', 'daytime': '000738.061', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:54:33', 'daytime': '000738.063', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:55:33', 'daytime': '000738.066', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:56:33', 'daytime': '000738.069', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:57:33', 'daytime': '000738.071', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:58:33', 'daytime': '000738.073', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T15:59:33', 'daytime': '000738.076', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:00:33', 'daytime': '000738.078', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:01:33', 'daytime': '000738.080', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:02:33', 'daytime': '000738.082', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:03:33', 'daytime': '000738.084', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:04:33', 'daytime': '000738.086', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:05:33', 'daytime': '000738.089', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:06:33', 'daytime': '000738.092', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:07:33', 'daytime': '000738.095', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:08:33', 'daytime': '000738.098', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:09:33', 'daytime': '000738.101', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:10:33', 'daytime': '000738.104', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:11:33', 'daytime': '000738.106', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:12:33', 'daytime': '000738.109', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:13:33', 'daytime': '000738.111', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:14:33', 'daytime': '000738.114', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:15:33', 'daytime': '000738.118', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:16:33', 'daytime': '000738.121', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:17:33', 'daytime': '000738.124', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:18:33', 'daytime': '000738.127', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:19:33', 'daytime': '000738.130', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:20:33', 'daytime': '000738.132', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:21:33', 'daytime': '000738.135', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:22:33', 'daytime': '000738.138', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:23:33', 'daytime': '000738.140', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:24:33', 'daytime': '000738.143', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:25:33', 'daytime': '000738.147', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:26:33', 'daytime': '000738.150', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:27:33', 'daytime': '000738.153', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:28:33', 'daytime': '000738.155', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:29:33', 'daytime': '000738.158', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:30:33', 'daytime': '000738.161', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:31:33', 'daytime': '000738.164', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:32:33', 'daytime': '000738.166', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:33:33', 'daytime': '000738.169', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:34:33', 'daytime': '000738.172', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:35:33', 'daytime': '000738.176', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:36:33', 'daytime': '000738.181', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:37:33', 'daytime': '000738.185', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:38:33', 'daytime': '000738.189', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:39:33', 'daytime': '000738.193', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:40:33', 'daytime': '000738.197', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:41:33', 'daytime': '000738.201', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:42:33', 'daytime': '000738.205', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:43:33', 'daytime': '000738.209', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:44:33', 'daytime': '000738.212', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:45:33', 'daytime': '000738.215', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:46:33', 'daytime': '000738.218', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:47:33', 'daytime': '000738.221', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:48:33', 'daytime': '000738.224', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:49:33', 'daytime': '000738.226', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:50:33', 'daytime': '000738.229', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:51:33', 'daytime': '000738.232', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:52:33', 'daytime': '000738.234', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:53:33', 'daytime': '000738.237', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:54:33', 'daytime': '000738.240', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:55:33', 'daytime': '000738.243', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:56:33', 'daytime': '000738.246', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:57:33', 'daytime': '000738.249', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:58:33', 'daytime': '000738.252', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T16:59:33', 'daytime': '000738.255', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:00:33', 'daytime': '000738.258', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:01:33', 'daytime': '000738.261', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:02:33', 'daytime': '000738.263', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:03:33', 'daytime': '000738.266', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:04:33', 'daytime': '000738.269', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:05:33', 'daytime': '000738.272', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:06:33', 'daytime': '000738.275', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:07:33', 'daytime': '000738.278', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:08:33', 'daytime': '000738.281', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:09:33', 'daytime': '000738.284', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:10:33', 'daytime': '000738.287', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:11:33', 'daytime': '000738.289', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:12:33', 'daytime': '000738.292', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:13:33', 'daytime': '000738.295', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:14:33', 'daytime': '000738.298', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:15:33', 'daytime': '000738.301', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:16:33', 'daytime': '000738.304', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:17:33', 'daytime': '000738.307', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:18:33', 'daytime': '000738.310', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:19:33', 'daytime': '000738.313', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:20:33', 'daytime': '000738.316', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:21:33', 'daytime': '000738.318', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:22:33', 'daytime': '000738.321', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:23:33', 'daytime': '000738.324', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:24:33', 'daytime': '000738.326', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:25:33', 'daytime': '000738.329', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:26:33', 'daytime': '000738.332', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:27:33', 'daytime': '000738.336', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:28:33', 'daytime': '000738.341', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:29:33', 'daytime': '000738.344', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:30:33', 'daytime': '000738.348', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:31:33', 'daytime': '000738.352', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:32:33', 'daytime': '000738.356', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:33:33', 'daytime': '000738.360', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:34:33', 'daytime': '000738.364', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:35:33', 'daytime': '000738.368', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:36:33', 'daytime': '000738.371', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:37:33', 'daytime': '000738.374', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:38:33', 'daytime': '000738.377', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:39:33', 'daytime': '000738.380', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:40:33', 'daytime': '000738.382', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:41:33', 'daytime': '000738.385', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:42:33', 'daytime': '000738.388', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:43:33', 'daytime': '000738.391', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:44:33', 'daytime': '000738.393', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:45:33', 'daytime': '000738.396', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:46:33', 'daytime': '000738.399', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:47:33', 'daytime': '000738.402', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:48:33', 'daytime': '000738.405', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:49:33', 'daytime': '000738.408', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:50:33', 'daytime': '000738.411', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:51:33', 'daytime': '000738.413', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:52:33', 'daytime': '000738.416', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:53:33', 'daytime': '000738.419', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:54:33', 'daytime': '000738.422', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:55:33', 'daytime': '000738.425', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:56:33', 'daytime': '000738.428', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:57:33', 'daytime': '000738.431', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:58:33', 'daytime': '000738.434', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T17:59:33', 'daytime': '000738.437', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:00:33', 'daytime': '000738.440', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:01:33', 'daytime': '000738.443', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:02:33', 'daytime': '000738.445', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:03:33', 'daytime': '000738.448', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:04:33', 'daytime': '000738.451', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:05:33', 'daytime': '000738.453', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:06:33', 'daytime': '000738.456', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:07:33', 'daytime': '000738.460', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:08:33', 'daytime': '000738.462', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:09:33', 'daytime': '000738.465', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:10:33', 'daytime': '000738.468', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:11:33', 'daytime': '000738.471', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:12:33', 'daytime': '000738.474', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:13:33', 'daytime': '000738.477', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:14:33', 'daytime': '000738.480', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:15:33', 'daytime': '000738.483', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:16:33', 'daytime': '000738.485', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:17:33', 'daytime': '000738.489', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:18:33', 'daytime': '000738.492', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:19:33', 'daytime': '000738.497', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:20:33', 'daytime': '000738.501', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:21:33', 'daytime': '000738.505', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:22:33', 'daytime': '000738.509', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:23:33', 'daytime': '000738.513', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:24:33', 'daytime': '000738.517', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:25:33', 'daytime': '000738.521', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:26:33', 'daytime': '000738.524', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:27:33', 'daytime': '000738.527', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:28:33', 'daytime': '000738.530', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:29:33', 'daytime': '000738.533', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:30:33', 'daytime': '000738.536', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:31:33', 'daytime': '000738.538', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:32:33', 'daytime': '000738.541', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:33:33', 'daytime': '000738.544', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:34:33', 'daytime': '000738.547', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:35:33', 'daytime': '000738.550', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:36:33', 'daytime': '000738.553', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:37:33', 'daytime': '000738.555', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:38:33', 'daytime': '000738.558', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:39:33', 'daytime': '000738.561', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:40:33', 'daytime': '000738.563', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:41:33', 'daytime': '000738.566', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:42:33', 'daytime': '000738.568', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:43:33', 'daytime': '000738.571', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:44:33', 'daytime': '000738.573', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:45:33', 'daytime': '000738.576', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:46:33', 'daytime': '000738.578', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:47:33', 'daytime': '000738.581', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:48:33', 'daytime': '000738.584', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:49:33', 'daytime': '000738.587', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:50:33', 'daytime': '000738.590', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:51:33', 'daytime': '000738.592', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:52:33', 'daytime': '000738.595', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:53:33', 'daytime': '000738.597', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:54:33', 'daytime': '000738.600', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:55:33', 'daytime': '000738.602', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:56:33', 'daytime': '000738.605', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:57:33', 'daytime': '000738.607', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:58:33', 'daytime': '000738.610', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T18:59:33', 'daytime': '000738.613', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:00:33', 'daytime': '000738.615', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:01:33', 'daytime': '000738.618', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:02:33', 'daytime': '000738.620', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:03:33', 'daytime': '000738.623', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:04:33', 'daytime': '000738.625', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:05:33', 'daytime': '000738.628', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:06:33', 'daytime': '000738.632', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:07:33', 'daytime': '000738.636', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:08:33', 'daytime': '000738.672', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:09:33', 'daytime': '000738.709', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:10:33', 'daytime': '000738.743', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:11:33', 'daytime': '000738.769', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:12:33', 'daytime': '000738.801', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:13:33', 'daytime': '000738.835', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:14:33', 'daytime': '000738.867', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:15:33', 'daytime': '000738.887', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:16:33', 'daytime': '000738.919', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:17:33', 'daytime': '000738.948', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:18:33', 'daytime': '000738.973', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:19:33', 'daytime': '000738.986', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:20:33', 'daytime': '000739.003', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:21:33', 'daytime': '000739.030', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:22:33', 'daytime': '000739.056', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:23:33', 'daytime': '000739.083', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:24:33', 'daytime': '000739.104', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:25:33', 'daytime': '000739.125', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:26:33', 'daytime': '000739.146', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:27:33', 'daytime': '000739.167', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:28:33', 'daytime': '000739.188', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:29:33', 'daytime': '000739.210', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:30:33', 'daytime': '000739.231', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:31:33', 'daytime': '000739.253', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:32:33', 'daytime': '000739.269', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:33:33', 'daytime': '000739.287', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:34:33', 'daytime': '000739.300', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:35:33', 'daytime': '000739.314', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:36:33', 'daytime': '000739.322', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:37:33', 'daytime': '000739.327', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:38:33', 'daytime': '000739.332', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:39:33', 'daytime': '000739.337', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:40:33', 'daytime': '000739.342', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:41:33', 'daytime': '000739.346', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:42:33', 'daytime': '000739.350', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:43:33', 'daytime': '000739.353', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:44:33', 'daytime': '000739.357', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:45:33', 'daytime': '000739.364', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:46:33', 'daytime': '000739.372', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:47:33', 'daytime': '000739.388', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:48:33', 'daytime': '000739.406', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:49:33', 'daytime': '000739.425', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:50:33', 'daytime': '000739.444', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:51:33', 'daytime': '000739.463', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:52:33', 'daytime': '000739.482', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:53:33', 'daytime': '000739.493', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:54:33', 'daytime': '000739.502', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:55:33', 'daytime': '000739.512', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:56:33', 'daytime': '000739.521', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:57:33', 'daytime': '000739.528', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:58:33', 'daytime': '000739.536', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T19:59:33', 'daytime': '000739.544', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:00:33', 'daytime': '000739.553', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:01:33', 'daytime': '000739.561', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:02:33', 'daytime': '000739.570', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:03:33', 'daytime': '000739.578', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:04:33', 'daytime': '000739.586', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:05:33', 'daytime': '000739.595', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:06:33', 'daytime': '000739.604', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:07:33', 'daytime': '000739.610', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:08:33', 'daytime': '000739.615', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:09:33', 'daytime': '000739.620', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:10:33', 'daytime': '000739.625', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:11:33', 'daytime': '000739.630', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:12:33', 'daytime': '000739.635', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:13:33', 'daytime': '000739.640', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:14:33', 'daytime': '000739.645', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:15:33', 'daytime': '000739.650', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:16:33', 'daytime': '000739.655', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:17:33', 'daytime': '000739.660', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:18:33', 'daytime': '000739.665', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:19:33', 'daytime': '000739.670', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:20:33', 'daytime': '000739.674', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:21:33', 'daytime': '000739.679', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:22:33', 'daytime': '000739.684', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:23:33', 'daytime': '000739.689', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:24:33', 'daytime': '000739.694', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:25:33', 'daytime': '000739.700', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:26:33', 'daytime': '000739.705', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:27:33', 'daytime': '000739.709', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:28:33', 'daytime': '000739.712', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:29:33', 'daytime': '000739.716', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:30:33', 'daytime': '000739.719', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:31:33', 'daytime': '000739.722', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:32:33', 'daytime': '000739.726', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:33:33', 'daytime': '000739.729', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:34:33', 'daytime': '000739.733', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:35:33', 'daytime': '000739.738', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:36:33', 'daytime': '000739.742', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:37:33', 'daytime': '000739.747', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:38:33', 'daytime': '000739.752', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:39:33', 'daytime': '000739.757', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:40:33', 'daytime': '000739.761', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:41:33', 'daytime': '000739.766', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:42:33', 'daytime': '000739.770', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:43:33', 'daytime': '000739.774', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:44:33', 'daytime': '000739.777', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:45:33', 'daytime': '000739.781', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:46:33', 'daytime': '000739.784', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:47:33', 'daytime': '000739.787', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:48:33', 'daytime': '000739.790', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:49:33', 'daytime': '000739.793', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:50:33', 'daytime': '000739.796', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:51:33', 'daytime': '000739.800', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:52:33', 'daytime': '000739.803', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:53:33', 'daytime': '000739.806', 'nighttime': '000686.675'}
+<Response [201]>
+{'timestamp': '2021-05-03T20:54:33', 'daytime': '000739.809', 'nighttime': '000686.675'}
