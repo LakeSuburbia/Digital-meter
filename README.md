@@ -19,4 +19,3 @@ I'll read, collect and interpret the data of my digital meter using a Raspberry 
 ## TO DO
 
 - Secure API
-- Update Average Usage
