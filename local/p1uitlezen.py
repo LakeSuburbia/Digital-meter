@@ -18,6 +18,7 @@ print ("Control-C to quit")
 
 # The address where we will collect our data through an hourly API call
 APIaddress = "http://165.227.215.102:8000/restapi/usage/"
+AuthToken = "ddcbb3fb935828019e3afd39c923a4a40d6f5792"
 # Length of Sagemcom data
 datalength=25
 # Frequency in seconds
@@ -97,7 +98,7 @@ def store_data():
         newdata = read_data()
         print(newdata)
         try:
-            postreq = requests.post(APIaddress, data = newdata, auth="Authorization: Token dee90eb20e3e93a4085e35538a1a09a63a15c88a")
+            postreq = requests.post(APIaddress, data = newdata, headers={'Authorization': 'token {}'.format(AuthToken)})
             print (postreq)
         except:
             print("Couldn't reach the server.")
