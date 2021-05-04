@@ -97,7 +97,7 @@ def store_data():
         newdata = read_data()
         print(newdata)
         try:
-            postreq = requests.post(APIaddress, data = newdata, auth=('ADMIN', 'ADMIN'))
+            postreq = requests.post(APIaddress, data = newdata, auth="Authorization: Token dee90eb20e3e93a4085e35538a1a09a63a15c88a")
             print (postreq)
         except:
             print("Couldn't reach the server.")

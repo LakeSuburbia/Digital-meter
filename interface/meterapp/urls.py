@@ -1,16 +1,17 @@
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from . import views
+from rest_framework.authtoken import views 
+from .views import index, chart, UsageViewSet
 
 
 router = routers.DefaultRouter()
-router.register(r'usage', views.UsageViewSet)
+router.register(r'usage', UsageViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.index, name='index'),
+    path('', index, name='index'),
     path("restapi/", include(router.urls)),
-    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
-    path('chart/', views.chart, name='chart')
+    path('api-token-auth/', views.obtain_auth_token, name='api-token-auth'),
+    path('chart/', chart, name='chart')
 ]
