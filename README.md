@@ -15,7 +15,6 @@ I'll read, collect and interpret the data of my digital meter using a Raspberry 
 - Migrate to webserver
 - Run RPI-script on startup in background
 - Run webserver in background
+- Secure API
 
 ## TO DO
-
-- Secure API
