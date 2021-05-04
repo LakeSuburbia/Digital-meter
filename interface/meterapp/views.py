@@ -31,7 +31,6 @@ def chart(request):
         'data': data,
     })
     
-#Get the hourly usage today
 def get_usage_data(request):
     """
     Function that gathers all the usage data of today and calculates the hourly usage
@@ -67,7 +66,7 @@ def index(request):
     for data in get_usage_data(request):
         totalUsage += data 
 
-    # Time in hours
+    # Time in hours (expressed as decimals, to calculate the averageUsage)
     now = datetime.now()+timedelta(hours=2)
     time = now.hour + now.minute/60 + now.second/3600
 
