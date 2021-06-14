@@ -17,7 +17,7 @@ print ("Control-C to quit")
 
 
 # The address where we will collect our data through API calls, each {{frequency_API}} minute
-APIaddress = "http://165.227.215.102:8000/restapi/usage/"
+APIaddress = "http://127.0.0.1:8000/restapi/usage/"
 AuthToken = "ddcbb3fb935828019e3afd39c923a4a40d6f5792"
 # Length of Sagemcom data
 datalength=25
@@ -62,9 +62,7 @@ def buffer_data():
 # Function in which we store data.
 # We store the data we want to use by returning a dictionary of the daily and nightly usage.
 def read_data():
-
     usage=dict()
-
     usage["timestamp"]=datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     #Store the first iteration
     for i in range(datalength):
